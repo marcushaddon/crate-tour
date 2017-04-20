@@ -7,7 +7,7 @@ If so, I bet you have at least one bookmarks folder that looks like this...
 
 ![An animated gif showing someone searching through a Youtube video trying to find a song](img/2.gif)
 
->If you feel like listening to the whole album start to finish, then great! But if you want to hear that *one* song, it's a pain. And if you wanted to curate a playlist of the deepest cuts from all of your Youtube digging gems? *Forget about it...*
+>If you feel like listening to the whole album start to finish, then great! But if you want to hear that *one* song, it's a pain. And if you wanted to curate a playlist of the deepest cuts from all of your Youtube digging gems? *Forget about it...*  
 
 
 # OR just grab that Youtube URL...
