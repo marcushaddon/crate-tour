@@ -1,5 +1,6 @@
 # Do you enjoy scouring the internet for eclectic, obscure music?
 If so, I bet you have at least one bookmarks folder that looks like this...
+
 ![An animated gif showing an overly long bookmarks folder filled with links to Youtube videos](img/3.gif)
 
 ... and each one is a link to something like this:
@@ -50,7 +51,7 @@ If so, I bet you have at least one bookmarks folder that looks like this...
 
 # You can browse mycrate.io by genre...
 
- ![alt](img/15.gif)
+![alt](img/15.gif)
  
 # ...discover music through Artist profiles (automatically imported from Discogs)...
 
