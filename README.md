@@ -60,6 +60,6 @@ If so, I bet you have at least one bookmarks folder that looks like this...
  
 ## ...or see what music a given user has uploaded / listened to / added to their crate.
 
-NEW GIF HERE
+ ![alt](img/17.gif)
  
  There are **[lots of features](https://gist.github.com/marcushaddon/b14a5f9d195c08122dacd0739d9296f8)** planned for mycrate.io. **[Give it a try](https://www.mycrate.io)** and let us know if you have any suggestions!
